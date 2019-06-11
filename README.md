@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains a Dockerfile that containerizes fastai's [harebrain](https://twitter.com/jeremyphoward/status/1103401049270804480) project.
+This repository contains a Dockerfile that containerizes fastai's [harebrain](https://forums.fast.ai/t/about-the-harebrain-category/36672) project.
 
 It is based on [Jeremy's Harebrained install guide](https://forums.fast.ai/t/jeremys-harebrained-install-guide/43814/9).
 
